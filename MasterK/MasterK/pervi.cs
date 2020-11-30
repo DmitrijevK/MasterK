@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MasterK
 {
-     public class pervik
+     public class pervi
     {
         public string Text { get; set; }
 

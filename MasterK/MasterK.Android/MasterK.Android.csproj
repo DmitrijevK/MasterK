@@ -86,13 +86,13 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\musja.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\MasterK\MasterK.csproj">
       <Project>{36EEE1C9-E2DD-41E6-92C6-A223B0A47765}</Project>
       <Name>MasterK</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mmmm.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
